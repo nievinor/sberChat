@@ -7,10 +7,10 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>Chat</servlet-name>
-    <servlet-class>Chat</servlet-class>
+    <servlet-class>sber.Chat</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>sber.Chat</servlet-name>
+    <servlet-name>Chat</servlet-name>
     <url-pattern>/chat</url-pattern>
   </servlet-mapping>
 
